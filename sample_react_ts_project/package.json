@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "sample_react_ts_project",
+  "private": true,
+  "scripts": {
+    "webpack": "webpack -w"
+  },
+  "dependencies": {
+    "react": "0.14.3",
+    "react-dom": "0.14.3",
+    "tsd": "0.6.5" 
+  },
+  "devDependencies": {
+    "webpack": "1.13.2",
+    "ts-loader": "0.8.2",
+    "tsc": "1.0.0",
+    "typescript": "1.8.10"
+   
+      
+  }
+}
